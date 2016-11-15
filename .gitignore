@@ -1,0 +1,14 @@
+# Basics #
+/bin/
+/.settings/
+.project
+.classpath
+/src/ScoreList.txt
+
+# Directories #
+/build/
+target/
+ 
+# OS Files #
+.DS_Store
+
